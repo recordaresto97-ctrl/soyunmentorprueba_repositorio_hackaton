@@ -1,0 +1,6 @@
+@"
+.env
+historial.json
+.venv/
+__pycache__/
+"@ | Set-Content .gitignore
